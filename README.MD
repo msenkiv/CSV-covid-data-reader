@@ -4,4 +4,4 @@
 
 ### Para executar :
  - Possuir golang instalado na maquina
- - executar o comando **go run csv_reader** no diretório raiz "
+ - executar o comando **go run main** no diretório covid "
